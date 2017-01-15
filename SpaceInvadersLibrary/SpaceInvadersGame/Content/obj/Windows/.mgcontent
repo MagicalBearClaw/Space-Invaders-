@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/projectile.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/Font.spritefont</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/Alien.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/bunker.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/AlienProjectile.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/Player.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/mothership.png</File>
+    <File>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/Starfield.png</File>
+  </SourceFiles>
+</SourceFileCollection>

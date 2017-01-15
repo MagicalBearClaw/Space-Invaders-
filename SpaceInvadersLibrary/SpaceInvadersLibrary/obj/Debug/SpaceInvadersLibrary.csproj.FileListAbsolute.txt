@@ -1,0 +1,80 @@
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\MonoGame.Framework.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\MonoGame.Framework.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.pdb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.pdb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.pdb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.csprojResolveAssemblyReference.cache
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.pdb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\MonoGame.Framework.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\MonoGame.Framework.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.csprojResolveAssemblyReference.cache
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.pdb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SpaceInvadersLibrary.pdb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\MonoGame.Framework.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XAudio2.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.DXGI.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.XInput.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.csprojResolveAssemblyReference.cache
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersLibrary\obj\Debug\SpaceInvadersLibrary.pdb

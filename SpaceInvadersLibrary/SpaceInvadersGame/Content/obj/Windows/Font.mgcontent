@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/Font.spritefont</SourceFile>
+  <SourceTime>2015-04-02T21:06:41.4292494-04:00</SourceTime>
+  <DestFile>C:/Users/MagicalBearClaw/Desktop/SpaceInvaders/SpaceInvadersLibrary/SpaceInvadersGame/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2017-01-15T16:26:27.0300284-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

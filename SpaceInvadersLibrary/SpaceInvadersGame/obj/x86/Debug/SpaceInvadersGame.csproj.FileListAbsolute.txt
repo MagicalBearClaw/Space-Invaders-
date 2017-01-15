@@ -1,0 +1,144 @@
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Alien.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\AlienProjectile.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\bunker.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\mothership.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Player.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\projectile.xnb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe.config
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Starfield.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Alien.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\AlienProjectile.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\bunker.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\mothership.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Player.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\projectile.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Starfield.xnb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe.config
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.pdb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.pdb
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.csprojResolveAssemblyReference.cache
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.exe
+C:\Users\1330815\Desktop\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.pdb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe.config
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.exe
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.pdb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Alien.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\AlienProjectile.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\bunker.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Font.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\mothership.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Player.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\projectile.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Starfield.xnb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.pdb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.pdb
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Final\SpaceInvadersLibrary\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.csprojResolveAssemblyReference.cache
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe.config
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.exe
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.pdb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Alien.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\AlienProjectile.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\bunker.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Font.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\mothership.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Player.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\projectile.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\Content\Starfield.xnb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.exe
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersGame.pdb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SpaceInvadersLibrary.pdb
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\MagicalBearClaw\Desktop\SpaceInvaders\SpaceInvadersLibrary\SpaceInvadersGame\obj\x86\Debug\SpaceInvadersGame.csprojResolveAssemblyReference.cache
